@@ -29,6 +29,10 @@ https://docs.nextcloud.com/server/13/developer_manual/client_apis/WebDAV/index.h
 
 ## FileZilla & Cyberduck
 
+## Connect your web app to Nextcloud with WebDAV-fs
+https://nextcloud.com/blog/using-webdav-fs-to-access-files-in-nextcloud/
+
 
 ## Presentation
 https://unipdit-my.sharepoint.com/:p:/r/personal/rigers_tafilica_1_studenti_unipd_it/_layouts/15/Doc.aspx?sourcedoc=%7B465EC73B-C595-44B7-BE81-6680CE358E72%7D&file=Presentation.pptx&action=edit&mobileredirect=true&wdTpl=TM00001224&wdNewAndOpenCt=1549275136868&wdPreviousSession=e0255928-dbb3-4ef0-ae1f-d435d1ffb1a8&wdOrigin=ohpAppTemplatePages
+
